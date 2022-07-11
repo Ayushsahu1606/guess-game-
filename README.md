@@ -1,3 +1,2 @@
-# GUESS-GAME-
-There is game that i used to play with my elder sister so i thought to code it. 
-This game is all about choosing correct letters of a random word.
+# GUESS GAME
+This is a game of choosing correct random letters for a random word.
